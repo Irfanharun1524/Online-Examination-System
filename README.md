@@ -1,6 +1,6 @@
 # Online-Examination-System
-# Reg No:212224220073
-# Name: PRAGADEESH S
+# Reg No:212224040122
+# Name: Irfan H
 # Date:
 
 
